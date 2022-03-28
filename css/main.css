@@ -45,9 +45,10 @@ main a {
   padding: .5rem .75rem .6em;
   border-radius: 8px;
   text-decoration: none;
-  margin: 1.5rem;
+  margin: 1.5rem 0 0;
 }
 
 main img {
   width: 100%;
+  margin: 1.5rem 0;
 }
