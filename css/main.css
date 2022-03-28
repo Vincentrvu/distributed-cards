@@ -11,12 +11,17 @@ html {
 body {
   background-color: #f5f2f0;
   margin: 0;
+  padding: 1rem;
+}
+
+main {
 }
 
 main ol {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
+  padding-inline-start: 0px;
 }
 
 main li {
@@ -28,7 +33,6 @@ main li {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  margin: 1.5rem;
 }
 
 li p {
