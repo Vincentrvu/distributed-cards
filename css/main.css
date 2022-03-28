@@ -10,7 +10,7 @@ html {
 
 body {
   background-color: #f5f2f0;
-  margin: 1.5rem;
+  margin: 0;
 }
 
 main ol {
@@ -28,6 +28,7 @@ main li {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  margin: 1.5rem;
 }
 
 li p {
