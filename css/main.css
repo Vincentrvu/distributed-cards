@@ -42,6 +42,9 @@ main li h2 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
   padding: 0;
+}
+
+main h1 {
   margin: 0 0 1.5rem;
 }
 
